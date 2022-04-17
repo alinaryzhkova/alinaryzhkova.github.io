@@ -1,2 +1,2 @@
-# alinaryzhkova.github.io
+# Алина Рыжкова
 Мой первый сайт
